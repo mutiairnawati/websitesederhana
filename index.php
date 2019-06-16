@@ -1,4 +1,3 @@
-<!-- blogbugabagi.blogspot.com -->
 <?php include 'koneksi.php'; ?>
 <!DOCTYPE html>
 <html>
